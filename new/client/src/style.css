@@ -1,0 +1,204 @@
+.background{
+    background-image: url(babypink.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width:1536px;
+    height:700px;
+    color: rgb(99, 8, 51);
+    
+}
+.seconddiv{
+    position: absolute;
+    left:80px;
+    background-image: url(pink\ back.avif);
+    height:500px;
+    width: 500px;
+    bottom: 100px;
+    border-radius: 50px;
+}
+
+
+
+.thirddiv{
+    position: absolute;
+   left: 100px;
+   bottom: 180px;
+
+}
+.btn{
+    width: 300px;
+    height: 80px;
+    border-radius: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    background-image:url(babypink.jpg);
+    border-color: hotpink;
+    color:black;
+}
+.headingcenter{
+    position: absolute;
+    left:200px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: xx-large;
+color: rgb(99, 8, 51);
+}
+.para{
+    position: absolute;
+    top:200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:x-large;
+    left:600px;
+    color: rgb(25, 18, 21);
+}
+.para2{
+    position: absolute;
+    top:400px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:small;
+    left:600px;
+    color: rgb(99, 8, 51);
+}
+.para3{
+    position: absolute;
+    top:450px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:small;
+    left:600px;
+    color: rgb(99, 8, 51);
+}
+.thirddiv2{
+    position: absolute;
+    left: 90px;
+   color: rgb(99, 8, 51);
+   font-size: large;
+   bottom: 100px;
+}
+.element{
+
+    position: absolute;
+    left:50px;
+    
+}
+.head{
+    position: absolute;
+    left:130px;
+}
+.head2{
+    position: absolute;
+    left:95px;
+}
+.element2{
+
+    position: absolute;
+    left:50px;
+    bottom: 100PX;
+    
+}
+.element3{
+    position: absolute;
+    left:50px;
+    bottom: 290PX;
+    color: rgb(99, 8, 51);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+.btn1{
+    position: absolute;
+    width: 300px;
+    height: 80px;
+    border-radius: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    background-image:url(babypink.jpg);
+    border-color: hotpink;
+    color:black;
+    left: 80px;
+    bottom: 100px;
+}
+.display{
+
+    background-color: rgb(194, 109, 144);
+    position: absolute;
+    width: 900px;
+    left: 600px;
+    top: 80px;
+    height: 600px;
+}
+.element4{
+    position: absolute;
+    left:50px;
+    bottom: 600PX;
+    color: rgb(99, 8, 51);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+.btn2{
+    position: absolute;
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: small;
+    background-image:url(babypink.jpg);
+    border-color: hotpink;
+    color:black;
+    left: 80px;
+  top: 80px;
+}
+.para4{
+
+position: absolute;
+    left: 10px;
+    top: 200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    text-align: justify;
+    width: 800px;
+    color: black;
+    font-weight: bold;
+}
+.para5{
+
+    position: absolute;
+        left: 20px;
+        top: 350px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-size: small;
+        text-align: justify;
+        width: 800px;
+        font-weight: bold;
+    }
+ .para6{
+
+        position: absolute;
+            left: 20px;
+            top: 380px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: smaller;
+            text-align: justify;
+            width: 800px;
+            color: black;
+    }
+    .para7{
+
+        position: absolute;
+            left: 20px;
+            top: 600px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: large;
+            text-align: justify;
+            width: 800px;
+            color: black;
+            color: rgb(99, 8, 51);
+
+    }
+    .display2{
+
+        background-color: rgb(194, 109, 144);
+        position: absolute;
+        width: 660px;
+        left: 860px;
+        top: 80px;
+        height: 600px;
+    }
+    
